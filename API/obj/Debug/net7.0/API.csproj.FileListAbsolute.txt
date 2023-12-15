@@ -70,3 +70,6 @@ D:\projet\skinet\skinet\API\obj\Debug\net7.0\refint\API.dll
 D:\projet\skinet\skinet\API\obj\Debug\net7.0\API.pdb
 D:\projet\skinet\skinet\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 D:\projet\skinet\skinet\API\obj\Debug\net7.0\ref\API.dll
+D:\projet\skinet\skinet\API\bin\Debug\net7.0\AutoMapper.dll
+D:\projet\skinet\skinet\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\projet\skinet\skinet\API\bin\Debug\net7.0\API.staticwebassets.runtime.json

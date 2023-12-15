@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iW1nML6R09GiYvD4+9PIXBfkiBtrICqxa40d/uUYC/y1gcBouHOoY5FROnaTGtA2opchryhc2ScY+wf1YFcSvA==",
+  "dgSpecHash": "neGxyU+1bvXVyENFiIs+kf2/GBIcLr7NmFx1B2CdUEQgPVV8Jfb33tbw3KBm5f66+WHqNQCKjNVjyrtaAvAJ6Q==",
   "success": true,
   "projectFilePath": "D:\\projet\\skinet\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Myris123\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Myris123\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Myris123\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Myris123\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\Myris123\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Myris123\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\Myris123\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Myris123\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
